@@ -1,10 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Mocking.Domain.Entities;
 using Mocking.Domain.Interfaces;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Mocking.Infrastructure.Data
 {
